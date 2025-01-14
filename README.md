@@ -22,6 +22,8 @@ The above-listed technologies are just the main ones. There are other technologi
 
 * [Databases with asyncpg](https://pypi.org/project/databases/)
 * [Python Decouple](https://docs.pytest.org/en/7.2.x/)
+* [Alembic](https://alembic.sqlalchemy.org/en/latest/)
+* [APScheduler](https://pypi.org/project/APScheduler/)
 
 ## Setup Guide
 
